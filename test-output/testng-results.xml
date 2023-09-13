@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-12T22:46:22 GMT-04:00" name="Default suite" finished-at="2023-09-12T22:46:31 GMT-04:00" duration-ms="8985">
+    <groups>
+    </groups>
+    <test started-at="2023-09-12T22:46:22 GMT-04:00" name="Default test" finished-at="2023-09-12T22:46:31 GMT-04:00" duration-ms="8985">
+      <class name="com.qa.tutorialsninja.TestCases.LoginTest">
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.qa.tutorialsninja.TestCases.LoginTest@2794eab6]" started-at="2023-09-12T22:46:22 GMT-04:00" name="loginSetup" finished-at="2023-09-12T22:46:30 GMT-04:00" duration-ms="7433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSetup -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:1, instance:com.qa.tutorialsninja.TestCases.LoginTest@2794eab6]" started-at="2023-09-12T22:46:30 GMT-04:00" name="verifyLoginWithValidCredentials" finished-at="2023-09-12T22:46:31 GMT-04:00" duration-ms="1356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tutorialsninja.TestCases.LoginTest@2794eab6]" started-at="2023-09-12T22:46:31 GMT-04:00" name="tearDown" finished-at="2023-09-12T22:46:31 GMT-04:00" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tutorialsninja.TestCases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
